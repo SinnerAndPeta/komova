@@ -23,6 +23,14 @@ namespace komova
         public MainWindow()
         {
             InitializeComponent();
+
+            int s1 = 321;
+          
+            int S2 = 123;
+
+            int z = s1 * S2;
+
+            MessageBox.Show("Произведение = "+z.ToString());
         }
     }
 }
