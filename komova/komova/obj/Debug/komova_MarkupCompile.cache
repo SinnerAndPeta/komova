@@ -10,11 +10,19 @@ none
 false
 DEBUG;TRACE
 D:\git\pr2\kom\komova\komova\App.xaml
+<<<<<<< HEAD
 21774819198
 
 7-1245419826
 13-1310406943
 MainWindow.xaml;newpage.xaml;
+=======
+1219584333
+
+6-502434485
+13-1310406943
+MainWindow.xaml;
+>>>>>>> dizainBranch
 
 True
 
